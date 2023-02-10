@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	"subscription-app/data/data"
+	"subscription-app/data"
 	"sync"
 	"syscall"
 	"time"

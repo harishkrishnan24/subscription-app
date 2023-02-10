@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"html/template"
 	"net/http"
-	"subscription-app/data/data"
+	"subscription-app/data"
 	"time"
 )
 

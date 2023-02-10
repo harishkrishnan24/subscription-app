@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"log"
-	"subscription-app/data/data"
+	"subscription-app/data"
 	"sync"
 
 	"github.com/alexedwards/scs/v2"
